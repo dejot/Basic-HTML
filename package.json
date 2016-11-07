@@ -1,0 +1,21 @@
+{
+  "name": "frontend-project",
+  "version": "0.0.1",
+  "author": "Darko Jergovic",
+  "license": "ISC",
+  "scripts" : {
+    "postinstall": "bower install"
+
+  },
+
+  "dependencies": {
+    "browser-sync": "^2.17.0",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.13",
+    "gulp-concat-css": "^2.3.0",
+    "gulp-jshint": "^2.0.1",
+    "gulp-sass": "^2.3.2",
+    "jshint": "^2.9.3"
+  },
+  "devDependencies": {}
+}
